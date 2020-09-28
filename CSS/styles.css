@@ -1,0 +1,36 @@
+body {
+  background-color: #e8ffc1;
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: #a5ecd7;
+border-width: 5px;
+width: 10%;
+}
+/*tag selector*/
+h1{
+color: #0278ae;
+}
+h2{
+
+  color: #51adcf;
+}
+
+h3{
+  color: #51adcf;
+}
+/*calss selector*/
+.yellow
+{
+background-color: yellow;
+  }
+
+.pale
+{
+background-color: orange;
+
+}
+/*ID Selector*/
+
+#Name {border-style: double;}
